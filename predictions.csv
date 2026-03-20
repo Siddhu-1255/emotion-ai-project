@@ -1,0 +1,4 @@
+id,predicted_state,predicted_intensity,confidence,uncertain_flag,what_to_do,when_to_do
+1,sad,4.22,0.45,1,rest,now
+2,happy,3.25,0.47,1,deep_work,now
+3,stress,4.21,0.41,1,breathing,now
